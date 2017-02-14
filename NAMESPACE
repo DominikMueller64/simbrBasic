@@ -1,0 +1,3 @@
+useDynLib(simbrBasic)
+exportPattern("^[[:alpha:]]+")
+import(methods, Rcpp)
